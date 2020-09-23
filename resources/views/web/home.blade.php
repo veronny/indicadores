@@ -50,7 +50,7 @@
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/vacunometro.png') }}" class="card-img-top">
                     <div class="card-body">
-                        <h5 class="card-title" style="color:#063d9b";>VACUMETRO REGIONAL</h5>
+                        <h5 class="card-title" style="color:#063d9b";>VACUNOMETRO REGIONAL</h5>
                         <p class="card-text">Vacunometro Regional Junin</p>
                         <a href="https://app.powerbi.com/view?r=eyJrIjoiZDE4MGNiOGItYWM2MC00YjMxLTkwYmYtYTBmMTJkNjVjNTNjIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
