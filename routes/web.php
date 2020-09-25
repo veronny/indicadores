@@ -32,3 +32,6 @@ Route::get('FED', 'FEDController@index')->name('FED');
 
 //Bechas
 Route::get('brechas', 'brechasController@index')->name('brechas');
+
+//Apendis
+Route::get('apendis', 'apendisController@index')->name('apendis');

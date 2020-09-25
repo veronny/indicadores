@@ -10,7 +10,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>AP ENDIS</h5>
                         <p class="card-text">Cuenta con los indicadores de seguimiento clinico y ejecuccion presupuestal en el contexto del COVID</p>
-                        <a href="http://167.172.230.221/" class="btn btn-success">Ingresar</a>
+                        <a href="{{ route('apendis') }}" class="btn btn-success">Ingresar</a>
                     </div>
             </div>
         </div>
