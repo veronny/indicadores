@@ -52,7 +52,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>VACUNOMETRO REGIONAL</h5>
                         <p class="card-text">Vacunometro Regional Junin</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZDE4MGNiOGItYWM2MC00YjMxLTkwYmYtYTBmMTJkNjVjNTNjIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMmNhYjQzMjMtYzYyMS00NDZlLWI0ODQtMTcyYmJhYTNkMjkyIiwidCI6Ijk0OWM4OGY0LWU4NzMtNDg1Ny04YzQxLWVkMDI1ZTI3ZTYyYyJ9&pageName=ReportSection" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -63,7 +63,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>HECHOS VITALES</h5>
                         <p class="card-text">CNV en Linea y SINADEF</p>
-                        <a href="https://datastudio.google.com/reporting/68171423-af1a-4580-b48b-3287ec4759a7/page/Hq2LB?s=j5yUplEIEGQ" class="btn btn-success" target="_blank">Ver mas</a>
+                        <a href="https://sinadefjunin.bitrix24.site/" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>

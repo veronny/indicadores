@@ -17,6 +17,9 @@
         <li class="nav-item" role="presentation">
             <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Directorio Responsable Municipio</a>
         </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#padron" role="tab" aria-controls="padron" aria-selected="false">Padron Nominal por meses</a>
+        </li>
     </ul>
 
     <div class="tab-content" id="myTabContent">
@@ -34,6 +37,9 @@
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="airtable-embed" src="https://airtable.com/embed/shrpaNGYbsjjXuM1U?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
             </div>
+        </div>
+        <div class="tab-pane fade" id="padron" role="tabpanel" aria-labelledby="contact-tab">
+
         </div>
     </div>
 </div>
