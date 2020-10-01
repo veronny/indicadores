@@ -21,7 +21,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>FED</h5>
                         <p class="card-text">Compromisos vinculados al Desarrollo Infantil Temprano DIT, seguimiento en el contexto COVID y violencia con la mujer</p>
-                        <a href="{{ route('FED') }}" class="btn btn-success">Ingresar</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYjJlOWM3NGItMTViMS00MWM4LWFiZmYtMDE2ZjZiMGMwMmYwIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ingresar</a>
                     </div>
             </div>
         </div>
