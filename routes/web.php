@@ -35,3 +35,6 @@ Route::get('brechas', 'brechasController@index')->name('brechas');
 
 //Apendis
 Route::get('apendis', 'apendisController@index')->name('apendis');
+
+//Poblacion
+Route::get('poblacion', 'poblacionController@index')->name('poblacion');

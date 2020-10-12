@@ -34,12 +34,10 @@
             </div>
         </div>
         <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="airtable-embed" src="https://airtable.com/embed/shrpaNGYbsjjXuM1U?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-            </div>
+            <iframe class="airtable-embed" src="https://airtable.com/embed/shrpaNGYbsjjXuM1U?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
         </div>
         <div class="tab-pane fade" id="padron" role="tabpanel" aria-labelledby="contact-tab">
-
+            <iframe width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMDIzYTA5ZGUtOWQ3Yy00M2QwLWFjNDMtZDY4OTg4NzEzYzBjIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
         </div>
     </div>
 </div>

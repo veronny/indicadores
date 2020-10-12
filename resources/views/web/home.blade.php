@@ -52,11 +52,11 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>VACUNOMETRO REGIONAL</h5>
                         <p class="card-text">Vacunometro Regional Junin</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMmNhYjQzMjMtYzYyMS00NDZlLWI0ODQtMTcyYmJhYTNkMjkyIiwidCI6Ijk0OWM4OGY0LWU4NzMtNDg1Ny04YzQxLWVkMDI1ZTI3ZTYyYyJ9&pageName=ReportSection" class="btn btn-success" target="_blank">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZjgxNzAwMzgtYjkxNy00YmMxLTkxNDktMTYyZjY1MmE3ZDE3IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
-
+        <!--  HECHOS VITALES -->
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/hechos_vitales.png') }}" class="card-img-top">
@@ -67,6 +67,73 @@
                     </div>
             </div>
         </div>
+        <!--  POBLACION -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/poblacion.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>POBLACION</h5>
+                        <p class="card-text">Poblacion proyectada de la region Junin</p>
+                        <a href="{{ route('poblacion') }}" class="btn btn-success">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  ATENDIDOS Y ATENCIONES -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/atendidos.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>ATENDIDOS Y ATENCIONES</h5>
+                        <p class="card-text">Atendidos y atenciones</p>
+                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  MORBILIDAD -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/moribilidad.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>MORBILIDAD</h5>
+                        <p class="card-text">CNV en Linea y SINADEF</p>
+                        <a href="#" class="btn btn-light">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  ESTRATEGIAS SANITARIAS -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/estrategias_salud.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>ESTRATEGIAS SANITARIAS</h5>
+                        <p class="card-text">ESTRATEGIAS SANITARIAS</p>
+                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  ETAPAS DE VIDA-->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/etapas_vida.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>ETAPAS DE VIDA</h5>
+                        <p class="card-text">ETAPAS DE VIDA</p>
+                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  PROMOCION DE LA SALUD -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/promsa.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>PROMOCION DE LA SALUD</h5>
+                        <p class="card-text">PROMOCION DE LA SALUD</p>
+                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
 
 
     </div>
