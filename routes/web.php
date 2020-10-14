@@ -28,7 +28,7 @@ Route::get('PadronNominal', 'PadronNominalController@index')->name('PadronNomina
 Route::get('convenios', 'ConveniosController@index')->name('convenios');
 
 //FED
-Route::get('FED', 'FEDController@index')->name('FED');
+Route::get('fed', 'FEDController@index')->name('fed');
 
 //Bechas
 Route::get('brechas', 'brechasController@index')->name('brechas');
