@@ -19,7 +19,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>DIT</h5>
                         <p class="card-text">Niños y Niñas entre los 110 y 130 dias que reciben hierro en gotas</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYjJlOWM3NGItMTViMS00MWM4LWFiZmYtMDE2ZjZiMGMwMmYwIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection2193f6f4cb2050b67741" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZGI5YTk3MTMtODMyMC00ZjRiLWIxNmMtYmFiYmE3OGUyNjQxIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection2193f6f4cb2050b67741" class="btn btn-success">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>DIT</h5>
                         <p class="card-text">Niños de 6 a 8 Meses, que inician suplementacion o tratamiento preventivo</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZGI5YTk3MTMtODMyMC00ZjRiLWIxNmMtYmFiYmE3OGUyNjQxIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiNjFiMjVjMGQtMTlhMy00YzU4LWE0ZmYtZmM3MTEwNTExYWZmIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection2193f6f4cb2050b67741" class="btn btn-success">Ver mas</a>
                     </div>
             </div>
         </div>
