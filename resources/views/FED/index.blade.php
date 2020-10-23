@@ -4,10 +4,32 @@
     <div class="row">
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/prematuro.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>DIT</h5>
+                        <p class="card-text">Niños con prematuriedad y/o bajo peso al nacer, que reciben gotas de hierro</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAyMzcxNWYtMmJjYy00ZmJjLThlZDQtMmYyMDg4M2Q1ZmNiIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/inicio_tratamiento.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>DIT</h5>
-                        <p class="card-text">Indicadores correspondiente al Desarollo Infantil Temprano SIII-01 , SIII-02, SIII-03</p>
+                        <p class="card-text">Niños y Niñas entre los 110 y 130 dias que reciben hierro en gotas</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYjJlOWM3NGItMTViMS00MWM4LWFiZmYtMDE2ZjZiMGMwMmYwIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection2193f6f4cb2050b67741" class="btn btn-success">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/inicio_tratamiento.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>DIT</h5>
+                        <p class="card-text">Niños de 6 a 8 Meses, que inician suplementacion o tratamiento preventivo</p>
                         <a href="https://app.powerbi.com/view?r=eyJrIjoiYjJlOWM3NGItMTViMS00MWM4LWFiZmYtMDE2ZjZiMGMwMmYwIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection2193f6f4cb2050b67741" class="btn btn-success">Ver mas</a>
                     </div>
             </div>
