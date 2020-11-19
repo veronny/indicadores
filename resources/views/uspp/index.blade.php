@@ -8,7 +8,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>IPRESS JUNIN</h5>
                         <p class="card-text">Reportes de las ipress acitivas e inactivas de la Region Junin</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJkZGYwNjgtMWM2ZS00ZDlhLTkxNmItODc4Mjk3YTNkMmJiIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJkZGYwNjgtMWM2ZS00ZDlhLTkxNmItODc4Mjk3YTNkMmJiIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -19,7 +19,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>AFILIADOS AL SIS</h5>
                         <p class="card-text">Reportes de Afiliados al SIS - Region Junin</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiOGE5NWVjNTUtYTQzZC00M2Y5LThmM2ItYzBkYjEyY2Y1OTY1IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiOGE5NWVjNTUtYTQzZC00M2Y5LThmM2ItYzBkYjEyY2Y1OTY1IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>PRODUCCIÓN DEL PERSONAL DE SALUD</h5>
                         <p class="card-text">Reportes de la produccion de FUAS de profesionales de Salud</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiODI1MGY0YjYtMzM5NC00Y2VjLTg4NGItNjk2YzhkYjdlYWEwIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiODI1MGY0YjYtMzM5NC00Y2VjLTg4NGItNjk2YzhkYjdlYWEwIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>PRODUCCIÓN DE DIGITADORES</h5>
                         <p class="card-text">Reportes de la digitacion de FUAS</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDdjNTEwMTItMzhiZi00MWNmLWEwN2ItNjM1NjI4YzliNWE1IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDdjNTEwMTItMzhiZi00MWNmLWEwN2ItNjM1NjI4YzliNWE1IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
