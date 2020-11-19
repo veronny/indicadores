@@ -38,3 +38,6 @@ Route::get('apendis', 'apendisController@index')->name('apendis');
 
 //Poblacion
 Route::get('poblacion', 'poblacionController@index')->name('poblacion');
+
+//SIS - USPP
+Route::get('USPP', 'usppController@index')->name('uspp');

@@ -133,6 +133,17 @@
                     </div>
             </div>
         </div>
+        <!--  SIS -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/USPP.jpg') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>UNIDAD DE SEGUROS</h5>
+                        <p class="card-text">Reportes y Seguimientos de afiliados, producción , indicadores y seguimientos con Base de Datos SIS</p>
+                        <a href="{{ route('uspp') }}" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
 
 
 
