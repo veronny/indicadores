@@ -41,3 +41,6 @@ Route::get('poblacion', 'poblacionController@index')->name('poblacion');
 
 //SIS - USPP
 Route::get('USPP', 'usppController@index')->name('uspp');
+
+//Atendidos y atenciones
+Route::get('atendidos', 'atendidosController@index')->name('atendidos');

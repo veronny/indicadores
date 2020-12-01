@@ -74,7 +74,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>POBLACION</h5>
                         <p class="card-text">Poblacion proyectada de la region Junin</p>
-                        <a href="{{ route('poblacion') }}" class="btn btn-success">Ver mas</a>
+                        <a href="{{ route('poblacion') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>ATENDIDOS Y ATENCIONES</h5>
                         <p class="card-text">Atendidos y atenciones</p>
-                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                        <a href="{{ route('atendidos') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
