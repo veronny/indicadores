@@ -42,7 +42,7 @@
                             <th>ENERO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=14KzFZcmW3DkVphuk-ocvwk1GuHQTH_xd">
+                                <a href="https://drive.google.com/uc?export=download&id=1XECNhmMB-s5DIdQKLXOmyd5fCt0iAe1E">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -52,7 +52,7 @@
                             <th>FEBRERO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=1gt7FM59biwT4PVyv3fdSPOCKdfJl9Imn">
+                                <a href="https://drive.google.com/uc?export=download&id=1ExMXpHuFOnBtCOgobtENGXtNOfEhZNUQ">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -62,7 +62,7 @@
                             <th>MARZO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=1nl-TrYhdxnzUz13zPOebJiZXdmNImgG4">
+                                <a href="https://drive.google.com/uc?export=download&id=1LZYsuoDsKBu6UgVRHz90gnUPZahzEn2a">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -72,7 +72,7 @@
                             <th>ABRIL</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=1zsO1gRS24RdMZ_konRvLg82-5rQLH_gC">
+                                <a href="https://drive.google.com/uc?export=download&id=1OLoLwRG2exYsaRpAcL92ZiqhoRUCrPIe">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -82,7 +82,7 @@
                             <th>MAYO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=1sKGIP6FLzRe_FmK6cTKh3KbnyIJcuP-n">
+                                <a href="https://drive.google.com/uc?export=download&id=10cnipJlgsY_hPFgWKv5LxvjQnF_DBf1Q">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -92,7 +92,7 @@
                             <th>JUNIO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=104mNu84DoFb608eZy6RIZ5xxVMA6kg4v">
+                                <a href="https://drive.google.com/uc?export=download&id=1bRTrQ1g4G0hmhR88lB3rpJwiDIbX6ul_">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -102,7 +102,7 @@
                             <th>JULIO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=19rcec3ASsuCZxj5cEWei4RNVbCsYAiaJ">
+                                <a href="https://drive.google.com/uc?export=download&id=1HDtfxoYnVjkSCCPPof7oj3ownCaPxyxz">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -112,7 +112,7 @@
                             <th>AGOSTO</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=1x6l2N91G8NenPiyeTC_tul85wyLEYWWK">
+                                <a href="https://drive.google.com/uc?export=download&id=1UP8O1hu2U99g924YL48x3vTECfwHQ16h">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -122,7 +122,7 @@
                             <th>SETIEMBRE</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=1cQ0ZTNeXyvBkWnRyGkzAsO7spLVyLLpU">
+                                <a href="https://drive.google.com/uc?export=download&id=1arSzhTTxSO8sDXqxiZQuMvAuV6gev6Go">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
@@ -132,7 +132,7 @@
                             <th>OCTUBRE</th>
                             <th>MORBILIDAD</th>
                             <th>
-                                <a href="https://drive.google.com/uc?export=download&id=11HFKTQeU7HLh6L-Rr0-tlLYGcXVigYoe">
+                                <a href="https://drive.google.com/uc?export=download&id=1mC2yh7mo43bH-OV0PJmoxTyb8zzvKKV2">
                                     <img src="{{ url('img/excel.png') }}">
                                 </a>
                             </th>
