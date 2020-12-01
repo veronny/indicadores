@@ -44,3 +44,9 @@ Route::get('USPP', 'usppController@index')->name('uspp');
 
 //Atendidos y atenciones
 Route::get('atendidos', 'atendidosController@index')->name('atendidos');
+
+//Morbilidad
+Route::get('moribilidad', 'morbilidadController@index')->name('morbilidad');
+
+//Estrategia
+Route::get('estrategia', 'estrategiasController@index')->name('estrategia');

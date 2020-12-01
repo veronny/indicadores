@@ -6,7 +6,7 @@
             <a class="btn btn-primary float-right" href="{{ url('web') }}">Volver a Menu</a>
         </div>
     </div>
-    <h3>Atendidos y atenciones</h3>
+    <h3>Morbilidad</h3>
     <ul class="nav nav-tabs" id="myTab" role="tablist">
         <li class="nav-item" role="presentation">
             <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Año 2020</a>
@@ -40,7 +40,7 @@
                         <tr>
                             <th>1</th>
                             <th>ENERO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=14KzFZcmW3DkVphuk-ocvwk1GuHQTH_xd">
                                     <img src="{{ url('img/excel.png') }}">
@@ -50,7 +50,7 @@
                         <tr>
                             <th>2</th>
                             <th>FEBRERO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=1gt7FM59biwT4PVyv3fdSPOCKdfJl9Imn">
                                     <img src="{{ url('img/excel.png') }}">
@@ -60,7 +60,7 @@
                         <tr>
                             <th>3</th>
                             <th>MARZO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=1nl-TrYhdxnzUz13zPOebJiZXdmNImgG4">
                                     <img src="{{ url('img/excel.png') }}">
@@ -70,7 +70,7 @@
                         <tr>
                             <th>4</th>
                             <th>ABRIL</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=1zsO1gRS24RdMZ_konRvLg82-5rQLH_gC">
                                     <img src="{{ url('img/excel.png') }}">
@@ -80,7 +80,7 @@
                         <tr>
                             <th>5</th>
                             <th>MAYO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=1sKGIP6FLzRe_FmK6cTKh3KbnyIJcuP-n">
                                     <img src="{{ url('img/excel.png') }}">
@@ -90,7 +90,7 @@
                         <tr>
                             <th>6</th>
                             <th>JUNIO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=104mNu84DoFb608eZy6RIZ5xxVMA6kg4v">
                                     <img src="{{ url('img/excel.png') }}">
@@ -100,7 +100,7 @@
                         <tr>
                             <th>7</th>
                             <th>JULIO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=19rcec3ASsuCZxj5cEWei4RNVbCsYAiaJ">
                                     <img src="{{ url('img/excel.png') }}">
@@ -110,7 +110,7 @@
                         <tr>
                             <th>8</th>
                             <th>AGOSTO</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=1x6l2N91G8NenPiyeTC_tul85wyLEYWWK">
                                     <img src="{{ url('img/excel.png') }}">
@@ -120,7 +120,7 @@
                         <tr>
                             <th>9</th>
                             <th>SETIEMBRE</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=1cQ0ZTNeXyvBkWnRyGkzAsO7spLVyLLpU">
                                     <img src="{{ url('img/excel.png') }}">
@@ -130,7 +130,7 @@
                         <tr>
                             <th>10</th>
                             <th>OCTUBRE</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="https://drive.google.com/uc?export=download&id=11HFKTQeU7HLh6L-Rr0-tlLYGcXVigYoe">
                                     <img src="{{ url('img/excel.png') }}">
@@ -140,7 +140,7 @@
                         <tr>
                             <th>11</th>
                             <th>NOVIEMBRE</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="#">
                                    <!-- <img src="{{ url('img/excel.png') }}"> -->
@@ -150,7 +150,7 @@
                         <tr>
                             <th>12</th>
                             <th>DICIEMBRE</th>
-                            <th>ATENDIDOS Y ATENCIONES</th>
+                            <th>MORBILIDAD</th>
                             <th>
                                 <a href="#">
                                     <!-- <img src="{{ url('img/excel.png') }}"> -->

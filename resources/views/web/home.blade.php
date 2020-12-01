@@ -95,8 +95,8 @@
                 <img src="{{ url('img/moribilidad.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>MORBILIDAD</h5>
-                        <p class="card-text">CNV en Linea y SINADEF</p>
-                        <a href="#" class="btn btn-light">Ver mas</a>
+                        <p class="card-text">MORBILIDAD REGIONAL</p>
+                        <a href="{{ route('morbilidad') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>ESTRATEGIAS SANITARIAS</h5>
                         <p class="card-text">ESTRATEGIAS SANITARIAS</p>
-                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                        <a href="{{ route('estrategia') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
