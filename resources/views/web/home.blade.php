@@ -118,7 +118,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>ETAPAS DE VIDA</h5>
                         <p class="card-text">ETAPAS DE VIDA</p>
-                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                        <a href="{{ route('etapa_vida') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>

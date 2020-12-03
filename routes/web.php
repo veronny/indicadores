@@ -50,3 +50,12 @@ Route::get('moribilidad', 'morbilidadController@index')->name('morbilidad');
 
 //Estrategia
 Route::get('estrategia', 'estrategiasController@index')->name('estrategia');
+
+//Operacional Estrategia
+Route::get('operacional', 'operacionalController@index')->name('operacional');
+
+//Estrategia
+Route::get('etapa_vida', 'etapavidaController@index')->name('etapa_vida');
+
+//Operacional Etapa vida
+Route::get('operacional_etapavida', 'operacional_etapavidaController@index')->name('operacional_etapavida');
