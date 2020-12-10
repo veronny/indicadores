@@ -144,6 +144,17 @@
                     </div>
             </div>
         </div>
+        <!--  CALIDAD -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/encuesta.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>ENCUESTA CALIDAD</h5>
+                        <p class="card-text">Sistema de Encuesta de la Satisfacción del usuario externo en establecimientos de salud del II y III nivel</p>
+                        <a href="http://encuesta.saludjunin.site/" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
 
 
 

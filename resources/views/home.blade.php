@@ -74,7 +74,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>POBLACION</h5>
                         <p class="card-text">Poblacion proyectada de la region Junin</p>
-                        <a href="{{ route('poblacion') }}" class="btn btn-success">Ver mas</a>
+                        <a href="{{ route('poblacion') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>ATENDIDOS Y ATENCIONES</h5>
                         <p class="card-text">Atendidos y atenciones</p>
-                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                        <a href="{{ route('atendidos') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -95,8 +95,8 @@
                 <img src="{{ url('img/moribilidad.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>MORBILIDAD</h5>
-                        <p class="card-text">CNV en Linea y SINADEF</p>
-                        <a href="#" class="btn btn-light">Ver mas</a>
+                        <p class="card-text">MORBILIDAD REGIONAL</p>
+                        <a href="{{ route('morbilidad') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>ESTRATEGIAS SANITARIAS</h5>
                         <p class="card-text">ESTRATEGIAS SANITARIAS</p>
-                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                        <a href="{{ route('estrategia') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>ETAPAS DE VIDA</h5>
                         <p class="card-text">ETAPAS DE VIDA</p>
-                        <a href="#" class="btn btn-light" target="_blank">Ver mas</a>
+                        <a href="{{ route('etapa_vida') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -134,6 +134,17 @@
             </div>
         </div>
         <!--  SIS -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/USPP.jpg') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>UNIDAD DE SEGUROS</h5>
+                        <p class="card-text">Reportes y Seguimientos de afiliados, producción , indicadores y seguimientos con Base de Datos SIS</p>
+                        <a href="{{ route('uspp') }}" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  CALIDAD -->
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/USPP.jpg') }}" class="card-img-top">

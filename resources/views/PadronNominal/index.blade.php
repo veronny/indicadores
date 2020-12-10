@@ -7,31 +7,40 @@
     </div>
 
 
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item" role="presentation">
-            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Tablero</a>
-        </li>
-        <li class="nav-item" role="presentation">
-            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Directorio Responsable Salud</a>
-        </li>
-        <li class="nav-item" role="presentation">
-            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Directorio Responsable Municipio</a>
-        </li>
-    </ul>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm text-center">
+                    <img src="{{ url('img/padron_nominal.png') }}" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title" style="color:#063d9b";>Tablero</h5>
+                            <p class="card-text">Sello Municipal, variables priorizados DIRESA, niños visitados</p>
+                            <a href="https://app.powerbi.com/view?r=eyJrIjoiYTgyMGMzMTUtZTlkZC00YmUxLTliYjAtOWZjYjE3ZDU2YmRmIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                        </div>
+                </div>
+            </div>
 
-    <div class="tab-content" id="myTabContent">
-        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://app.powerbi.com/view?r=eyJrIjoiYTgyMGMzMTUtZTlkZC00YmUxLTliYjAtOWZjYjE3ZDU2YmRmIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" allowFullScreen></iframe>
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm text-center">
+                    <img src="{{ url('img/padron_nominal.png') }}" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title" style="color:#063d9b";>Directorio Responsable Salud</h5>
+                            <p class="card-text">Responsables del Personal de salud por establecimientos de salud</p>
+                            <a href="https://airtable.com/embed/shrOO5ndVmc8cdzZa?backgroundColor=red&viewControls=on" class="btn btn-success" target="_blank">Ver mas</a>
+                        </div>
+                </div>
             </div>
-        </div>
-        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="airtable-embed" src="https://airtable.com/embed/shrOO5ndVmc8cdzZa?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm text-center">
+                    <img src="{{ url('img/padron_nominal.png') }}" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title" style="color:#063d9b";>Directorio Responsable Municipio</h5>
+                            <p class="card-text">Responsables del Personal del municipio a nivel distrital</p>
+                            <a href="https://airtable.com/embed/shrpaNGYbsjjXuM1U?backgroundColor=purple&viewControls=on" class="btn btn-success" target="_blank">Ver mas</a>
+                        </div>
+                </div>
             </div>
-        </div>
-        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-            <iframe class="airtable-embed" src="https://airtable.com/embed/shrpaNGYbsjjXuM1U?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
         </div>
     </div>
 </div>
