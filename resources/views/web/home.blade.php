@@ -30,7 +30,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>INFORMACION SISCOVID</h5>
                         <p class="card-text">Reportes y seguimientos de las Fichas 100 Prueba rapida, F200 investigacion epidemiologica y F300 Seguimiento Clinico</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiNjUwZWZmMWEtMzE0Zi00MzI0LThkOGYtMjU1MmViMzI0ZmIxIiwidCI6Ijk0OWM4OGY0LWU4NzMtNDg1Ny04YzQxLWVkMDI1ZTI3ZTYyYyJ9&pageName=ReportSection" class="btn btn-success" target="_blank">Ver mas</a>
+                        <a href="{{ route('siscovid') }}"  class="btn btn-success">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -63,7 +63,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>HECHOS VITALES</h5>
                         <p class="card-text">CNV en Linea y SINADEF</p>
-                        <a href="https://sinadefjunin.bitrix24.site/" class="btn btn-success" target="_blank">Ver mas</a>
+                        <a href="{{ route('vitales') }}" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -149,9 +149,31 @@
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/encuesta.png') }}" class="card-img-top">
                     <div class="card-body">
-                        <h5 class="card-title" style="color:#063d9b";>ENCUESTA CALIDAD</h5>
+                        <h5 class="card-title" style="color:#063d9b";>ENCUESTA DE CALIDAD</h5>
                         <p class="card-text">Sistema de Encuesta de la Satisfacción del usuario externo en establecimientos de salud del II y III nivel</p>
                         <a href="http://encuesta.saludjunin.site/" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  CONSULTA HIS -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/operacional.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>CONSULTA HIS MINSA</h5>
+                        <p class="card-text">Visualizar las atenciones digitadas en el HIS MINSA (Base de Datos Regional), por el DNI del paciente</p>
+                        <a href="http://b428b1005543.ngrok.io/Reporte.aspx" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        <!--  CONSULTA HIS -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/cloud.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>CLOUD DIRESA JUNIN</h5>
+                        <p class="card-text">Alojamiento de archivos de la Direccion Regional de Salud JUNIN</p>
+                        <a href="http://cloud.saludjunin.site/index.php/login" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>

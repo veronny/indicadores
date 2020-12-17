@@ -59,3 +59,9 @@ Route::get('etapa_vida', 'etapavidaController@index')->name('etapa_vida');
 
 //Operacional Etapa vida
 Route::get('operacional_etapavida', 'operacional_etapavidaController@index')->name('operacional_etapavida');
+
+//Siscovid
+Route::get('siscovid', 'siscovidController@index')->name('siscovid');
+
+//Hechos Vitales
+Route::get('hechos_vitales', 'vitalesController@index')->name('vitales');
