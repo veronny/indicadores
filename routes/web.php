@@ -65,3 +65,6 @@ Route::get('siscovid', 'siscovidController@index')->name('siscovid');
 
 //Hechos Vitales
 Route::get('hechos_vitales', 'vitalesController@index')->name('vitales');
+
+//Vacunas COVID
+Route::get('vacuna_covid','vacunacovidController@index')->name('vacuna_covid');

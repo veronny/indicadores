@@ -2,6 +2,44 @@
 
 <div class="container">
     <div class="row">
+
+
+    <!-- VACUNA COVID -->
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm text-center">
+            <img src="{{ url('img/vacuna_covid.jpg') }}" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title" style="color:#063d9b";>VACUNA COVID</h5>
+                    <p class="card-text">FASE I: Proteger la integridad del sistema de salud y continuidad se servicios basicos</p>
+                    <a href="{{ route('vacuna_covid') }}" class="btn btn-success" target="_blank">Ver mas</a>
+                </div>
+        </div>
+    </div>
+
+        <!--  CLOUD -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/cloud.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>CLOUD DIRESA JUNIN</h5>
+                        <p class="card-text">Alojamiento de archivos de la Direccion Regional de Salud JUNIN</p>
+                        <a href="http://cloud.saludjunin.site/index.php/login" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
+            <!--  POBLACION -->
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm text-center">
+                    <img src="{{ url('img/poblacion.png') }}" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title" style="color:#063d9b";>POBLACION</h5>
+                            <p class="card-text">Poblacion proyectada a nivel de establecimientos de salud de la Region Junin</p>
+                            <a href="{{ route('poblacion') }}" class="btn btn-success" target="_blank">Ver mas</a>
+                        </div>
+                </div>
+            </div>
+    <!-- PADRON NOMINAL -->                
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/padron_nominal.png') }}" class="card-img-top">
@@ -67,17 +105,7 @@
                     </div>
             </div>
         </div>
-        <!--  POBLACION -->
-        <div class="col-md-4">
-            <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/poblacion.png') }}" class="card-img-top">
-                    <div class="card-body">
-                        <h5 class="card-title" style="color:#063d9b";>POBLACION</h5>
-                        <p class="card-text">Poblacion proyectada de la region Junin</p>
-                        <a href="{{ route('poblacion') }}" class="btn btn-success" target="_blank">Ver mas</a>
-                    </div>
-            </div>
-        </div>
+
         <!--  ATENDIDOS Y ATENCIONES -->
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
@@ -166,17 +194,7 @@
                     </div>
             </div>
         </div>
-        <!--  CONSULTA HIS -->
-        <div class="col-md-4">
-            <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/cloud.png') }}" class="card-img-top">
-                    <div class="card-body">
-                        <h5 class="card-title" style="color:#063d9b";>CLOUD DIRESA JUNIN</h5>
-                        <p class="card-text">Alojamiento de archivos de la Direccion Regional de Salud JUNIN</p>
-                        <a href="http://cloud.saludjunin.site/index.php/login" class="btn btn-success" target="_blank">Ver mas</a>
-                    </div>
-            </div>
-        </div>
+
 
 
 
