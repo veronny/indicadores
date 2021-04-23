@@ -8,7 +8,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>Vacunometro Regional</h5>
                         <p class="card-text">Vacunometro</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZjJmMjJiMWEtOWI0Mi00NDhhLThhZmEtNzk3ZmZjOWExZTczIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYmRiMTBmMjgtNDJhMi00ODI0LTlhOGEtMGVjZjVmZTg2NWZhIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection" class="btn btn-success">Ver mas</a>
                     </div>
             </div>
         </div>
