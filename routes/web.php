@@ -68,3 +68,6 @@ Route::get('hechos_vitales', 'vitalesController@index')->name('vitales');
 
 //Vacunas COVID
 Route::get('vacuna_covid','vacunacovidController@index')->name('vacuna_covid');
+
+//Convenios de Gestion
+Route::get('convenios_gestion','conveniosgestionController@index')->name('convenios_gestion');
