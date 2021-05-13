@@ -8,7 +8,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>Gestantes con paquete preventivo completo</h5>
                         <p class="card-text">Porcentaje de gestantes con paquete preventivo completo</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMzVlYmI2YzYtZjhjMy00MjU3LWI3MGItMGU4N2U2YWZhYTQyIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMzVlYmI2YzYtZjhjMy00MjU3LWI3MGItMGU4N2U2YWZhYTQyIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
@@ -19,7 +19,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>Mujeres acceden a metodos de planificacion familiar</h5>
                         <p class="card-text">Porcentaje de mujeres que acceden a metodos de planificacion familiar post parto institucion</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDBjMzdkYzUtMmJjYy00MjQ2LTgzMmYtOTg3MDZlNGQ4Mjg1IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDBjMzdkYzUtMmJjYy00MjQ2LTgzMmYtOTg3MDZlNGQ4Mjg1IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
