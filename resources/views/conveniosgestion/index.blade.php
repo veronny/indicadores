@@ -2,6 +2,18 @@
 
 <div class="container">
     <div class="row">
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/anemia.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Niños con diagnostico de anemia entre 6 y 11 meses, recuperado</h5>
+                        <p class="card-text">Porcentaje de niños con diagnostico de anemia entre 6 y 11 meses, que se han recuperado</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiM2ViNWY5NTQtODdiOC00NjUyLWEzZjQtZTE1MzcyNjI5OTlhIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/paquete_gestante.png') }}" class="card-img-top">
