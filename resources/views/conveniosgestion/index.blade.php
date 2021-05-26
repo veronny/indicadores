@@ -36,5 +36,15 @@
             </div>
         </div>
 
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/visita_anemia.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Niños de 6 a 11 meses con dx anemia que reciben consejeria a traves de visita domiciliaria o teleorientacion</h5>
+                        <p class="card-text">Porcentaje de niños de 6 a 11 meses con dx anemia que reciben consejeria a traves de visita domiciliaria o teleorientacion</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYjg3MDgxMDktZjM5NC00YThhLTg4NzMtNjJiYmY4NTIyYTc4IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
 
 @endsection
