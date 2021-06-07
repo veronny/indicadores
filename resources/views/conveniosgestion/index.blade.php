@@ -16,6 +16,17 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/paquete_nino.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Niños menores de 18 meses, con paquete integrado preventivo</h5>
+                        <p class="card-text">Porcentaje de niños sin dx de anemia, CRED, vacunas, dosaje de homoglobina y suplementacion con hierro</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiM2ZkN2UzMjgtMzQwNC00MWRhLWE0NjYtN2ZiMmY5MzRkNzI4IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/paquete_gestante.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>Gestantes con paquete preventivo completo</h5>
