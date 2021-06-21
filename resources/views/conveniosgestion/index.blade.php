@@ -38,6 +38,17 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/vacuna_nacido.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Recien nacidos de parto institucional que reciben vacunas completas</h5>
+                        <p class="card-text">Porcentaje de recien nacidos que reciben vacunas completas antes del alta</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZjNmMWMyYmMtZWY3Zi00NjFhLWI5YTgtYmQ3NGFjZGM5Zjk0IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/paquete_gestante.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>Gestantes con paquete preventivo completo</h5>
