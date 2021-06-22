@@ -80,4 +80,15 @@
             </div>
         </div>
 
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/cuello_uterino.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Mujeres de 25 a 64 años con tamizaje para la deteccion de lesiones premalignas e incipiente de cancer de cuello uterino</h5>
+                        <p class="card-text">Porcentaje de mujeres de 25 a 64 años con tamizaje para la deteccion de lesiones premalignas e incipiente de cancer de cuello uterino</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiZTAzNjdiMjctNjExZC00MWQxLTllMTItYjQ5NTA4YWI2ZDk3IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
 @endsection
