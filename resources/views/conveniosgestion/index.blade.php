@@ -91,4 +91,15 @@
             </div>
         </div>
 
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/alta_odonto.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Niñas y niños de 3 a 11 años con alta basica odontologica</h5>
+                        <p class="card-text">Porcentaje de niñas y niños de 3 a 11 años con alta basica odontologica</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiYjVlNTk1YmUtM2U3Yi00YTIwLThhMzMtNDU5ZGIwMzA0NTI4IiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
 @endsection
