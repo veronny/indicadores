@@ -15,7 +15,7 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/prematuro.png') }}" class="card-img-top">
+                <img src="{{ url('img/tamizaje.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>TAMIZAJE NEONATAL</h5>
                         <p class="card-text">Recién nacidos,cuentan con tamizaje neonatal (metabólico) al mes de vida</p>
@@ -37,7 +37,7 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/inicio_tratamiento.png') }}" class="card-img-top">
+                <img src="{{ url('img/dit.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>DIT</h5>
                         <p class="card-text">Niños de 6 a 8 Meses, que inician suplementacion o tratamiento preventivo</p>
@@ -48,7 +48,7 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/inicio_tratamiento.png') }}" class="card-img-top">
+                <img src="{{ url('img/cred.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>CONTROLES CRED</h5>
                         <p class="card-text">Niños menores de 12 meses de edad, que cuentan con controles CRED presenciales</p>
@@ -70,7 +70,7 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/gestante.png') }}" class="card-img-top">
+                <img src="{{ url('img/examen.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>GESTANTE CON 4 EXAMENES</h5>
                         <p class="card-text">Gestantes atendidas en IPRESS , que reciben 4 exámenes auxiliares en el primer trimestre del embarazo</p>
@@ -81,7 +81,7 @@
 
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/gestante.png') }}" class="card-img-top">
+                <img src="{{ url('img/planificacion.png') }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>PLANIFICACION FAMILIAR</h5>
                         <p class="card-text">Usuarias nuevas en el servicio de planificacion familiar con deteccion de violencia contra la mujer tamizaje</p>
@@ -97,19 +97,6 @@
                         <h5 class="card-title" style="color:#063d9b";>GESTANTE INICIAN TRATAMIENTO</h5>
                         <p class="card-text">Gestantes cuentan con diagnostico e inician tratamiento, realizadas en IPRESS del primer nivel de atencion de salud</p>
                         <a href="https://app.powerbi.com/view?r=eyJrIjoiN2NjZWE1ODgtZTBmNC00M2Y1LTliNWEtYjY3NTdiYzI4NmZiIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection0a4138561842cd17b6c6" class="btn btn-success" target="_blank">Ver mas</a>
-                    </div>
-            </div>
-        </div>
-
-
-
-        <div class="col-md-4">
-            <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/gestante.png') }}" class="card-img-top">
-                    <div class="card-body">
-                        <h5 class="card-title" style="color:#063d9b";>VIOLENCIA</h5>
-                        <p class="card-text">Gestantes con deteccion positiva de violencia contra la mujer en IPRESS</p>
-                        <a href="https://app.powerbi.com/view?r=eyJrIjoiOGJkMWE3YmUtZTEyMS00ODZkLWEzZGItZmQ0MTI1ZDg0ZDAyIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9&pageName=ReportSection2193f6f4cb2050b67741" class="btn btn-success" target="_blank">Ver mas</a>
                     </div>
             </div>
         </div>
