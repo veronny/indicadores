@@ -62,6 +62,18 @@
             </div>
         </div>
 
+        <!--  CONSULTA HIS -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/operacional.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>CONSULTA HIS MINSA</h5>
+                        <p class="card-text">Visualizar las atenciones digitadas en el HIS MINSA (Base de Datos Regional), por el DNI del paciente</p>
+                        <a href="http://diresahis.tk/" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+        
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
                 <img src="{{ url('img/SISCOVID.png') }}" class="card-img-top">
@@ -183,17 +195,7 @@
                     </div>
             </div>
         </div>
-        <!--  CONSULTA HIS -->
-        <div class="col-md-4">
-            <div class="card mb-4 shadow-sm text-center">
-                <img src="{{ url('img/operacional.png') }}" class="card-img-top">
-                    <div class="card-body">
-                        <h5 class="card-title" style="color:#063d9b";>CONSULTA HIS MINSA</h5>
-                        <p class="card-text">Visualizar las atenciones digitadas en el HIS MINSA (Base de Datos Regional), por el DNI del paciente</p>
-                        <a href="http://b428b1005543.ngrok.io/Reporte.aspx" class="btn btn-success" target="_blank">Ver mas</a>
-                    </div>
-            </div>
-        </div>
+        
 
 
 
