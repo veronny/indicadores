@@ -19,7 +19,7 @@
                     <div class="card-body">
                         <h5 class="card-title" style="color:#063d9b";>Modulo CRED</h5>
                         <p class="card-text";>Migracion de Eqhali a HIS MINSA</p>
-                        <a href="#" class="btn btn-success">Ver mas</a>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiNGYxM2M4Y2UtYjU0Ni00OWM0LWJmNDItODBmZjA5OTEzYzlkIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success">Ver mas</a>
                     </div>
             </div>
         </div>
