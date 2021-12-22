@@ -11,7 +11,7 @@
                 <div class="card-body">
                     <h5 class="card-title" style="color:#063d9b";>VACUNA COVID</h5>
                     <p class="card-text">FASE I: Proteger la integridad del sistema de salud y continuidad se servicios basicos</p>
-                    <a href="http://vacuna.saludjunin.site/" class="btn btn-success" target="_blank">Ver mas</a>
+                    <a href="https://pacific-river-62491.herokuapp.com/" class="btn btn-success" target="_blank">Ver mas</a>
                 </div>
         </div>
     </div>
