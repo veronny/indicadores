@@ -74,3 +74,6 @@ Route::get('convenios_gestion','conveniosgestionController@index')->name('conven
 
 //Convenios de Gestion
 Route::get('migraciones','migracionesController@index')->name('migraciones');
+
+//Primero la Infancia
+Route::get('primero_infancia','primero_infancia@index')->name('primero_infancia');
