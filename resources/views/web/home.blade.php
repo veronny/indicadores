@@ -131,6 +131,17 @@
                     </div>
             </div>
         </div>
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/vacunometro.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>SEGUIMIENTO INMUNIZACIONES</h5>
+                        <p class="card-text">Seguimiento esquema regular</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiNmMyMDQ3MTEtNzM4NC00ODljLTkzODctNGUwYzFjNWYwMDBiIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
         <!--  HECHOS VITALES -->
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm text-center">
