@@ -102,4 +102,15 @@
             </div>
         </div>
 
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm text-center">
+                <img src="{{ url('img/adolescente.png') }}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color:#063d9b";>Adolescentes que reciben preventivamente suplementación de hierro mas acido fólico</h5>
+                        <p class="card-text">Porcentaje de adolescentes que reciben preventivamente suplementación de hierro mas acido fólico</p>
+                        <a href="https://app.powerbi.com/view?r=eyJrIjoiMTA0Y2VhZTMtZWExMi00NzBhLTkzZmEtNDRiNGEyYjc5MWYzIiwidCI6ImQxYzM1MDFkLWE2MWUtNGJiYi04NDdhLWQ5NDRiZmFlOGRiMCIsImMiOjR9" class="btn btn-success" target="_blank">Ver mas</a>
+                    </div>
+            </div>
+        </div>
+
 @endsection
